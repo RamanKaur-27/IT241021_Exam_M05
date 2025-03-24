@@ -1,4 +1,4 @@
-##Find a  few sites with basic Excel spreadsheet troubleshooting.
+### Find a  few sites with basic Excel spreadsheet troubleshooting.
 
 [First site](https://www1.jestor.com/blog/jestor-process/14-excel-spreadsheet-problems-for-business-and-how-to-solve-them/)
 
@@ -20,4 +20,8 @@ I think that this site creates very confusion so I do not find it very useful.
 
 ### What is a common excel troubleshooting technique.
 
-A common Excel troubleshooting technique is to restart excel and your computer, 
+A common Excel troubleshooting technique is to use Error Checking and Formula Auditing tools. Here are the steps:
+
+Check for Errors: Error indicators and Error checking.
+
+Check for hidden rows or columns.
