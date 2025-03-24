@@ -1,3 +1,9 @@
+##Question 1
+
+##Support Case: Formulas Not Calculating
+
+##Excel Version: Microsoft Excel (latest version)
+
 There is a information about how to solve the problem if formulas are not calculating in excel spreadsheet.
 
 I find two sites to make the problem clear.
