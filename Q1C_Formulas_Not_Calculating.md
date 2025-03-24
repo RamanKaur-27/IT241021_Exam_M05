@@ -14,3 +14,5 @@ I think that this website is not very useful because only errors are mentioned i
 
 ### Describe the most common mistake people make in excel 
 
+One of the most common mistakes people make in excel is incorrect use of cell references - particularly mixing up relative and absolute references.
+
